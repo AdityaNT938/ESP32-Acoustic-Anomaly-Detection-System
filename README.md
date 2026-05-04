@@ -4,13 +4,13 @@ It listens to machine acoustics and identifies early signs of failure, enabling 
 
 This project combines Digital Signal Processing (DSP) and Edge AI to perform all computations locally on an ESP32 — eliminating the need for cloud processing.
 
-Problem Statement
+Problem Statement= 
 Industrial machines generate complex, overlapping noise → faults are hard to detect
 Manual inspections are slow and inconsistent
 Cloud-based monitoring introduces latency and dependency
 Early fault signals are subtle and often missed
 
- Objectives
+Objectives= 
 Develop a Smart Acoustic Monitoring System for fault detection
 Use DSP techniques (Filtering, FFT, MFCC) to process noisy signals
 Implement Edge AI model on ESP32 (no cloud dependency)
