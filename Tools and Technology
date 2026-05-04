@@ -1,0 +1,11 @@
+# Tools and Technology
+
+ Hardware Used= 
+ESP32 Microcontroller
+INMP441 MEMS Microphone
+USB Programming Interface
+
+ Software & Tools= 
+Arduino IDE
+ESP-IDF
+Edge Impulse Studio
