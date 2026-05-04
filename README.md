@@ -28,7 +28,7 @@ This project combines **Digital Signal Processing (DSP)** and **Edge AI** to per
 
 ---
 
-## ⚙️ System Architecture
+## System Architecture
 
 ```<img width="1500" height="583" alt="image" src="https://github.com/user-attachments/assets/f9285cca-61ab-47f3-8354-a7f2c3c02f84" />
 
@@ -36,7 +36,7 @@ This project combines **Digital Signal Processing (DSP)** and **Edge AI** to per
 
 ---
 
-## 🧠 Working Principle
+##  Working Principle
 
 1. Microphone captures machine sound as discrete signal
 2. Signal is processed in frames using DSP techniques
@@ -125,7 +125,7 @@ This project combines **Digital Signal Processing (DSP)** and **Edge AI** to per
 
 ---
 
-## 🏭 Applications
+##  Applications
 
 * Predictive maintenance in industrial machines
 * Smart factory monitoring systems
@@ -134,20 +134,9 @@ This project combines **Digital Signal Processing (DSP)** and **Edge AI** to per
 
 ---
 
-## 📂 Project Structure
-
-```
-SmartEar/
-│── README.md
-│── firmware/
-│── hardware/
-│── docs/
-│── results/
-```
-
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Improve model accuracy using larger datasets
 * Integrate wireless alert systems
@@ -156,7 +145,7 @@ SmartEar/
 
 ---
 
-## 🧠 Key Learning Outcomes
+##  Key Learning Outcomes
 
 * Practical implementation of DSP (FFT, MFCC)
 * Edge AI deployment on microcontrollers
@@ -165,7 +154,7 @@ SmartEar/
 
 ---
 
-## 📚 References
+##  References
 
 * Acoustic-Based Machine Condition Monitoring (MDPI, 2023)
 * Sound-Based Predictive Maintenance Review (MDPI, 2025)
@@ -173,16 +162,10 @@ SmartEar/
 
 ---
 
-## 👨‍💻 Contributors
-
-* Aditya Narayan Tiwari
-* Aryan Dhaked
-* Nikhil Kumar
-* Aman Soni
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 SmartEar demonstrates how **DSP + Edge AI** can transform traditional maintenance into a **smart, predictive, and efficient system**, reducing downtime and improving safety in industrial environments.
 
